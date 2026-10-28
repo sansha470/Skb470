@@ -1,0 +1,6 @@
+{
+  "name": "Sant Browser",
+  "description": "Fast and private Android web browser with built-in ad blocker, media sniffer & grabber, bookmarks, browsing history, incognito mode, and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
